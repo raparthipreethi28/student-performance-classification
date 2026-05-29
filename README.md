@@ -211,7 +211,10 @@ Developed as part of an Artificial Intelligence & Machine Learning Internship Pr
 # ⭐ If You Like This Project!
 
 
-Give this repository a ⭐ on GitHub and connect with me on LinkedIn!
+Give this repository a ⭐ on GitHub and connect with me on LinkedIn!https://www.linkedin.com/in/preethi-raparthi-03b9723a7?
+
+
+
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/b8fb28ab-5942-4d3c-ab45-d2fc7159457d" /><img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/f2fc7c55-273b-403a-a2e1-227c7231fd36" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/8b1637ae-b2fb-45f0-b6a8-f8c5bf89d72f" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/0af82de8-aeba-449a-8ab4-44b6a9836785" />
